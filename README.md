@@ -4,7 +4,7 @@
 
 🎓: I am currently a first year student in the Computer Systems Technology program in BCIT.
 
-📫: If you would like to reach out to me, send me an email at gathrean@icloud.com.
+<!-- 📫: If you would like to reach out to me, send me an email at gathrean@icloud.com. -->
 
 Thanks for checking out my github! 
 
