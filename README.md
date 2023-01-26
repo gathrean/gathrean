@@ -1,4 +1,4 @@
-### Hellow World 👋🏽
+### Hello World 👋🏽
 
 👨🏽‍💻: Hi, my name is Gathrean, but you can call me Ean.
 
