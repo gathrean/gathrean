@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hellow World 👋🏽
+
+👨🏽‍💻 : Hi, my name is Gathrean, but you can call me Ean.
+
+🎓 : I’m currently a first year student in the Computer Systems Technology program in BCIT.
+
+📫 : If you would like to reach out to me, send me an email at gathrean@icloud.com!
 
 <!--
 **gathrean/gathrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
