@@ -2,9 +2,9 @@
 
 👨🏽‍💻: Hi, my name is Gathrean, but you can call me Ean.
 
-🎓: I am currently a first year student in the Computer Systems Technology program in BCIT.
+🎓: I am currently a second year student in the Computer Systems Technology program in BCIT.
 
-🌱: I'm currently learning Java, C and SQL. I've learned basic Web Development.
+🌱: I've studied Java, C, SQL, and Web Development.
 
 🔭: This semester I will be learning C++, R, and Kotlin.
 
