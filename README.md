@@ -6,7 +6,7 @@
 
 🌱: I'm currently learning Java, C and SQL. I've learned basic Web Development.
 
-🔭: Next semester I will be learning C++, R, and Kotlin.
+🔭: This semester I will be learning C++, R, and Kotlin.
 
 📫: If you would like to reach out to me:
 - Send me an email at gathrean@icloud.com
