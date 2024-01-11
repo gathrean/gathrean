@@ -6,7 +6,7 @@
 
 🌱: I've studied Web Development, Java, C, SQL, C++, R, and Kotlin
 
-🔭: This semester I will be learning .NET, C#, and OOP JavaScript
+🔭: This semester I will be learning .NET, C#, and OOP JavaScript (Jan-Apr 2024)
 
 📫: If you would like to reach out to me:
 - Send me an email at gathrean@icloud.com
