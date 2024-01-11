@@ -4,9 +4,9 @@
 
 🎓: I am currently a second year student in the Computer Systems Technology program in BCIT.
 
-🌱: I've studied Java, C, SQL, and Web Development.
+🌱: I've studied Web Development, Java, C, SQL, C++, R, and Kotlin
 
-🔭: This semester I will be learning C++, R, and Kotlin.
+🔭: This semester I will be learning .NET, C#, and OOP JavaScript
 
 📫: If you would like to reach out to me:
 - Send me an email at gathrean@icloud.com
