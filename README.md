@@ -49,8 +49,8 @@ Thanks for checking out my github!
 
 ## Stats
 
-![Gathrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=gotham&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gathrean&theme=gotham&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Gathrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=gotham&show_icons=true&hide_border=true&border_radius=0)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gathrean&theme=gotham&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
