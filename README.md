@@ -6,7 +6,7 @@ My name is Gathrean, but you can call me Ean!
 
 - 🎧 When I'm not coding, I love to make beats and doing graphic design!
 
-- 📫 Reach out to me via gathrean@icloud.com
+- 📬 Reach out to me via gathrean@icloud.com
 
 Thanks for checking out my github! 
 
