@@ -26,7 +26,7 @@ Thanks for checking out my github!
 
 #### 💻 Programming Languages
 
-> [![Languages](https://skillicons.dev/icons?i=js,react,java,kotlin,c,cpp,r)]([https://skillicons.dev](https://github.com/gathrean/))
+> [![Languages](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)]([https://skillicons.dev](https://github.com/gathrean/))
 
 #### 🛠️ Development Tools
 
