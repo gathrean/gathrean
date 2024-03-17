@@ -10,6 +10,15 @@ My name is Gathrean, but you can call me Ean!
 
 Thanks for checking out my github! 
 
+## Project Repo Spotlight
+
+(Click on image to visit their GitHub repo)
+
+[![OrcaSwipe](https://github.com/gathrean/gathrean/assets/77172769/bff720dd-54d0-486d-a850-ec72d68daa7c)](https://github.com/gathrean/OrcaSwipe)
+
+[![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/c5edc782-aead-4b83-8566-01b6e1963eab)](https://github.com/BardiaTiM/DungeonQuad)
+
+
 ## My Tech Stack
 
 #### 🪴 Currently Learning
