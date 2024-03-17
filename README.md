@@ -45,7 +45,7 @@ Thanks for checking out my github!
 
 #### 🪐 Other 
 
-> [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
+> [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
 
 ## Stats
 
