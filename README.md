@@ -18,7 +18,7 @@ Thanks for checking out my github!
 [![Nebula](https://github.com/gathrean/gathrean/assets/77172769/6b7deef7-c0a4-4439-9cf0-e35eedb3fdf1)](https://github.com/gathrean/Nebula)
 [![OrcaSwipe](https://github.com/gathrean/gathrean/assets/77172769/07e9aeac-f21c-49a9-901d-bc9d2b8ac789)](https://github.com/gathrean/OrcaSwipe)
 [![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/907c905f-697f-47a8-9d0d-44670e917abd)](https://github.com/BardiaTiM/DungeonQuad)
-
+[![Jeoparody!](https://github.com/gathrean/gathrean/assets/77172769/803d4641-57b6-4da8-b0dd-084c47ef719d)](https://github.com/RavdeepAulakh/Jeoparody)
 
 
 ## My Tech Stack
