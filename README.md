@@ -26,15 +26,15 @@ Thanks for checking out my github!
 
 #### Programming Languages
 
-> [![Languages](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)]([https://skillicons.dev](https://github.com/gathrean/))
+> [![Languages](https://skillicons.dev/icons?i=js,react,java,kotlin,c,cpp,r)]([https://skillicons.dev](https://github.com/gathrean/))
 
 ##### Development Tools
 
-> [![IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,npm,gradle,vercel,netlify)]([https://skillicons.dev](https://github.com/gathrean/))
+> [![IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify)]([https://skillicons.dev](https://github.com/gathrean/))
 
 #### Other 
 
-> [![Other](https://skillicons.dev/icons?i=ableton,ps,notion,obsidian,apple)]([https://skillicons.dev](https://github.com/gathrean/))
+> [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
 
 ## Stats
 
