@@ -12,6 +12,10 @@ Thanks for checking out my github!
 
 ## My Tech Stack
 
+#### Currently Learning
+
+[![Currently Learning](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,swift,postman,unity,rider)]([https://skillicons.dev](https://github.com/gathrean/))
+
 #### Frontend Development
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma)](https://github.com/gathrean/)
@@ -31,10 +35,6 @@ Thanks for checking out my github!
 #### Other 
 
 [![Other](https://skillicons.dev/icons?i=ableton,ps,notion,obsidian,apple)]([https://skillicons.dev](https://github.com/gathrean/))
-
-#### Currently Learning
-
-[![Currently Learning](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,swift,postman,unity,rider)]([https://skillicons.dev](https://github.com/gathrean/))
 
 ## Stats
 
