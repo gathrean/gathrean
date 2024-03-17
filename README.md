@@ -4,7 +4,7 @@ My name is Gathrean, but you can call me Ean!
 
 - 🎓 I'm currently a 2nd year student in the Computer Systems Technology program in BCIT.
 
-- 🎧 I love making beats and doing graphic design in my free time!
+- 🎧 When I'm not coding, I love to make beats and doing graphic design!
 
 - 📫 Reach out to me via gathrean@icloud.com
 
