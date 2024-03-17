@@ -14,6 +14,10 @@ Thanks for checking out my github!
 
 (Click on image to visit their GitHub repo)
 
+[![CareLink](https://github.com/gathrean/gathrean/assets/77172769/71a56720-e049-4431-95b5-44ed67b0ee8c)](https://github.com/BardiaTiM/CareLink)
+
+[![Nebula](https://github.com/gathrean/gathrean/assets/77172769/6b7deef7-c0a4-4439-9cf0-e35eedb3fdf1)](https://github.com/gathrean/Nebula)
+
 [![OrcaSwipe](https://github.com/gathrean/gathrean/assets/77172769/bff720dd-54d0-486d-a850-ec72d68daa7c)](https://github.com/gathrean/OrcaSwipe)
 
 [![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/c5edc782-aead-4b83-8566-01b6e1963eab)](https://github.com/BardiaTiM/DungeonQuad)
