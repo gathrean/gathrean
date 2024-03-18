@@ -47,12 +47,11 @@ Thanks for checking out my github!
 > [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
 
 ## My GitHub Stats
-  
-![Gathrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=gotham&show_icons=true&hide_border=true&border_radius=0)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gathrean&theme=gotham&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gathrean&layout=donut&theme=gotham&hide_border=true&border_radius=0&langs_count=10)
-</details>
 
+![Overall GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gathrean&theme=react)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathrean&theme=react)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
+[![Streak](https://streak-stats.demolab.com?user=gathrean&theme=react&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **gathrean/gathrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
