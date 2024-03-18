@@ -14,7 +14,8 @@ Thanks for checking out my github!
 
 <details>
   <summary>Click Me</summary>
-  (Click on image to visit their GitHub repo)
+  
+### (Click on image to visit their GitHub repo)
 
 [![CareLink](https://github.com/gathrean/gathrean/assets/77172769/9b88ca72-93c4-4682-abd5-697c5032e979)](https://github.com/BardiaTiM/CareLink)
 [![Nebula](https://github.com/gathrean/gathrean/assets/77172769/6b7deef7-c0a4-4439-9cf0-e35eedb3fdf1)](https://github.com/gathrean/Nebula)
