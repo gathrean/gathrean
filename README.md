@@ -12,7 +12,9 @@ Thanks for checking out my github!
 
 ## Project Repo Spotlight
 
-(Click on image to visit their GitHub repo)
+<details>
+  <summary>Click Me</summary>
+  (Click on image to visit their GitHub repo)
 
 [![CareLink](https://github.com/gathrean/gathrean/assets/77172769/9b88ca72-93c4-4682-abd5-697c5032e979)](https://github.com/BardiaTiM/CareLink)
 [![Nebula](https://github.com/gathrean/gathrean/assets/77172769/6b7deef7-c0a4-4439-9cf0-e35eedb3fdf1)](https://github.com/gathrean/Nebula)
@@ -20,8 +22,12 @@ Thanks for checking out my github!
 [![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/907c905f-697f-47a8-9d0d-44670e917abd)](https://github.com/BardiaTiM/DungeonQuad)
 [![Jeoparody!](https://github.com/gathrean/gathrean/assets/77172769/803d4641-57b6-4da8-b0dd-084c47ef719d)](https://github.com/RavdeepAulakh/Jeoparody)
 
+</details>
+
 
 ## My Tech Stack
+
+<details> <summary>Click Me</summary>
 
 #### 🪴 Currently Learning
 
@@ -44,14 +50,17 @@ Thanks for checking out my github!
 > [![IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify)]([https://skillicons.dev](https://github.com/gathrean/))
 
 #### 🪐 Other 
-
 > [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
+</details>
 
-## Stats
-
+## My GitHub Stats
+<details>
+  <summary>Click Me</summary>
+  
 ![Gathrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=gotham&show_icons=true&hide_border=true&border_radius=0)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gathrean&theme=gotham&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gathrean&layout=donut&theme=gotham&hide_border=true&border_radius=0&langs_count=10)
+</details>
 
 
 <!--
