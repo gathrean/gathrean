@@ -11,9 +11,6 @@ My name is Gathrean, but you can call me Ean!
 Thanks for checking out my github! 
 
 ## Project Repo Spotlight
-
-<details>
-  <summary>Click Me</summary>
   
 ### (Click on image to visit their GitHub repo)
 
@@ -23,12 +20,8 @@ Thanks for checking out my github!
 [![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/907c905f-697f-47a8-9d0d-44670e917abd)](https://github.com/BardiaTiM/DungeonQuad)
 [![Jeoparody!](https://github.com/gathrean/gathrean/assets/77172769/803d4641-57b6-4da8-b0dd-084c47ef719d)](https://github.com/RavdeepAulakh/Jeoparody)
 
-</details>
-
 
 ## My Tech Stack
-
-<details> <summary>Click Me</summary>
 
 #### 🪴 Currently Learning
 
@@ -52,11 +45,8 @@ Thanks for checking out my github!
 
 #### 🪐 Other 
 > [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)]([https://skillicons.dev](https://github.com/gathrean/))
-</details>
 
 ## My GitHub Stats
-<details>
-  <summary>Click Me</summary>
   
 ![Gathrean's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=gotham&show_icons=true&hide_border=true&border_radius=0)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gathrean&theme=gotham&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
