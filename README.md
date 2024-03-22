@@ -23,14 +23,14 @@ Thanks for checking out my github!
 
 ## My Tech Stack
 
-| Type                      | Languages                                                                     |
-|----------------------------|--------------------------------------------------------------------------|
-| 🪴 Currently Learning      | [![Currently Learning](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,swift,postman,unity,rider)](https://github.com/gathrean/)    |
-| 👁️ Frontend Development   | [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma)](https://github.com/gathrean/)               |
-| ⚙️ Backend Development     | [![Backend](https://skillicons.dev/icons?i=express,npm,nodejs,mysql,sqlite)](https://github.com/gathrean/)                        |
-| 💻 Programming Languages  | [![Languages](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)](https://github.com/gathrean/)                                |
+| Type                       | Languages                                                                                                                                          |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🪴 Currently Learning      | [![Currently Learning](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,swift,postman,unity,rider)](https://github.com/gathrean/)            |
+| 👁️ Frontend Development    | [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma)](https://github.com/gathrean/)                               |
+| ⚙️ Backend Development     | [![Backend](https://skillicons.dev/icons?i=express,npm,nodejs,mysql,sqlite)](https://github.com/gathrean/)                                         |
+| 💻 Programming Languages   | [![Languages](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)](https://github.com/gathrean/)                                                   |
 | 🛠️ Development Tools       | [![IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify)](https://github.com/gathrean/) |
-| 🪐 Other                   | [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)](https://github.com/gathrean/)                    |
+| 🪐 Other                   | [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)](https://github.com/gathrean/)                                       |
 
 
 ## My GitHub Stats
