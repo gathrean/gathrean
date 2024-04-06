@@ -43,6 +43,8 @@ Thanks for checking out my github!
 <!--
 **gathrean/gathrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Screenshot 2024-04-06 at 1 51 36 PM 2](https://github.com/gathrean/gathrean/assets/77172769/0ca7f865-da53-4328-b2a1-6e16fa59b6ed)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
