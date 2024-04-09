@@ -1,4 +1,4 @@
-# Hello World 👋🏽
+# <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Hello World 👋🏽
 
 My name is Gathrean, but you can call me Ean!
 
@@ -12,7 +12,7 @@ My name is Gathrean, but you can call me Ean!
 
 Thanks for checking out my github! 
 
-## Project Repo Spotlight
+## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Project Repo Spotlight
   
 ### (Click on image to visit their GitHub repo)
 
@@ -22,7 +22,7 @@ Thanks for checking out my github!
 [![DungeonQuad](https://github.com/gathrean/gathrean/assets/77172769/907c905f-697f-47a8-9d0d-44670e917abd)](https://github.com/BardiaTiM/DungeonQuad)
 [![YapPad](https://github.com/gathrean/gathrean/assets/77172769/8a2825c7-08bc-441f-834b-58825d6fcdd4)](https://github.com/xinyang417/YapPad)
 
-## My Tech Stack
+## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My Tech Stack
 
 | Type                       | Languages                                                                                                                                          |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Thanks for checking out my github!
 | 🪐 Other                   | [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian&perline=7)](https://github.com/gathrean/)                                       |
 
 
-## My GitHub Stats
+## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My GitHub Stats
 
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathrean&theme=react)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
