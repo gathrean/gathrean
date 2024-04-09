@@ -26,12 +26,12 @@ Thanks for checking out my github!
 
 | Type                       | Languages                                                                                                                                          |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🪴 Currently Learning      | [![Currently Learning](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,swift,postman,unity,rider&perline=7)](https://github.com/gathrean/)            |
-| 👁️ Frontend Development    | [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma&perline=7)](https://github.com/gathrean/)                               |
-| ⚙️ Backend Development      | [![Backend](https://skillicons.dev/icons?i=express,npm,nodejs,mysql,sqlite&perline=7)](https://github.com/gathrean/)                                         |
-| 💻 Programming Languages   | [![Languages](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r&perline=7)](https://github.com/gathrean/)                                                   |
-| 🛠️ Development Tools       | [![IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify&perline=7)](https://github.com/gathrean/) |
-| 🪐 Other                   | [![Other](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian&perline=7)](https://github.com/gathrean/)                                       |
+| 🪴 Currently Learning      | ![](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,postman,unity)            |
+| 👁️ Frontend Development    | ![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma)                               |
+| ⚙️ Backend Development      | ![](https://skillicons.dev/icons?i=express,npm,nodejs,mysql,sqlite)                                     |
+| 💻 Programming Languages   | ![](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)                          |
+| 🛠️ Development Tools       | ![](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify)        |
+| 🪐 Other                   | ![](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)                                  |
 
 
 ## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My GitHub Stats
