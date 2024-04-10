@@ -24,14 +24,18 @@ Thanks for checking out my github!
 
 ## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My Tech Stack
 
-| Type                       | Languages                                                                                                                                          |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🪴 Currently Learning      | ![](https://skillicons.dev/icons?i=ts,tailwind,postgres,cs,postman,unity)            |
-| 👁️ Frontend Development    | ![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,figma)                               |
-| ⚙️ Backend Development      | ![](https://skillicons.dev/icons?i=express,npm,nodejs,mysql,sqlite)                                     |
-| 💻 Programming Languages   | ![](https://skillicons.dev/icons?i=java,kotlin,c,cpp,r)                          |
-| 🛠️ Development Tools       | ![](https://skillicons.dev/icons?i=vscode,androidstudio,clion,git,github,cmake,firebase,gradle,vercel,netlify)        |
-| 🪐 Other                   | ![](https://skillicons.dev/icons?i=apple,ableton,ps,md,notion,obsidian)                                  |
+| Type                       | Languages                                                                                                                                                                        |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🪴 Currently Learning      | ![](https://skillicons.dev/icons?i=ts) ![](https://skillicons.dev/icons?i=tailwind) ![](https://skillicons.dev/icons?i=postgres) ![](https://skillicons.dev/icons?i=cs)          |
+| 👁️ Frontend Development    | ![](https://skillicons.dev/icons?i=html,css,js) ![](https://skillicons.dev/icons?i=react) ![](https://skillicons.dev/icons?i=bootstrap)                                          |
+| ⚙️ Backend Development     | ![](https://skillicons.dev/icons?i=express) ![](https://skillicons.dev/icons?i=npm) ![](https://skillicons.dev/icons?i=nodejs)                                                   |
+| 💻 Programming Languages   | ![](https://skillicons.dev/icons?i=java,kotlin) ![](https://skillicons.dev/icons?i=c,cpp)  ![](https://skillicons.dev/icons?i=r)                                                 |
+| 💻 IDEs                    | ![](https://skillicons.dev/icons?i=vscode) ![](https://skillicons.dev/icons?i=idea) ![](https://skillicons.dev/icons?i=clion) ![](https://skillicons.dev/icons?i=androidstudio)  |
+| 🛠️ Database                | ![](https://skillicons.dev/icons?i=mongodb) ![](https://skillicons.dev/icons?i=firebase) ![](https://skillicons.dev/icons?i=mysql) ![](https://skillicons.dev/icons?i=sqlite)    |
+| 🌐 Hosting                 | ![](https://skillicons.dev/icons?i=vercel) ![](https://skillicons.dev/icons?i=netlify)                                                                                           |
+| 📖 Documentation           | ![](https://skillicons.dev/icons?i=md) ![](https://skillicons.dev/icons?i=notion) ![](https://skillicons.dev/icons?i=obsidian)                                                   |  
+| ⚙️ Operating Systems       | ![](https://skillicons.dev/icons?i=apple) ![](https://skillicons.dev/icons?i=windows)                                                                                            |      
+| 🪐 Other                   | ![](https://skillicons.dev/icons?i=ableton) ![](https://skillicons.dev/icons?i=ps)                                                                                               |
 
 
 ## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My GitHub Stats
