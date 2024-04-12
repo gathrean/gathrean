@@ -50,6 +50,8 @@ Thanks for checking out my github!
 
 ![discord-avatar-512-RCB3T](https://github.com/gathrean/gathrean/assets/77172769/2c6b5072-a9a8-48fb-bba8-38b7ca313307)
 
+https://github.com/gathrean/gathrean/assets/77172769/eac20a6b-0c27-4b0e-b72a-778b3844ba05
+
 
 ![Screenshot 2024-04-06 at 1 51 36 PM 2](https://github.com/gathrean/gathrean/assets/77172769/0ca7f865-da53-4328-b2a1-6e16fa59b6ed)
 
