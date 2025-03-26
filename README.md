@@ -1,3 +1,4 @@
+Thanks for checking out my github! 
 <!-- # <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Hello World 👋🏽 
 
 My name is Gathrean, but you can call me Ean!
@@ -11,14 +12,12 @@ My name is Gathrean, but you can call me Ean!
 
 Thanks for checking out my github! 
 
--->
+
 
 ![Overall GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gathrean&theme=react)
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathrean&theme=react)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
 
-
-<!--
 
 ## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Project Repo Spotlight
   
