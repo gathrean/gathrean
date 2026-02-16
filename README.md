@@ -1,4 +1,6 @@
 Thanks for checking out my github! 
+
+[Visit my website](https://gathrean.com/)
 <!-- # <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Hello World 👋🏽 
 
 My name is Gathrean, but you can call me Ean!
