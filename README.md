@@ -1,4 +1,4 @@
-Thanks for checking out my github! 
+Thank you for checking out my github! 
 
 [Visit my website](https://gathrean.com/)
 <!-- # <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> Hello World 👋🏽 
@@ -47,14 +47,16 @@ Thanks for checking out my github!
 | 🪐 Other                   | ![](https://skillicons.dev/icons?i=ableton) ![](https://skillicons.dev/icons?i=ps)                                                                                               |
 
 
-## <img src="https://github.com/gathrean/gathrean/assets/77172769/bef2ac1b-11f9-4682-8840-ded8f6d57bfa" alt="GDC" width="20" height="20"> My GitHub Stats
+## My GitHub Stats
+
 
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathrean&theme=react)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
-![gathrean's Stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=react&show_icons=true&hide_border=true&count_private=true)
+![gathrean's Stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=react&show_icons=true&hide_border=true&count_private=true) 
+-->
 ![gathrean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gathrean&theme=react&hide_border=true)
 
--->
+
 
 <!--
 **gathrean/gathrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
