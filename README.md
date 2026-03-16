@@ -50,12 +50,16 @@ Thanks for checking out my github!
 ## My GitHub Stats
 
 
+
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathrean&theme=react)
-![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
+
 ![gathrean's Stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=react&show_icons=true&hide_border=true&count_private=true) 
+
 -->
+
 ![gathrean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gathrean&theme=react&hide_border=true&timezone=America/Vancouver)
 
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
 
 
 <!--
