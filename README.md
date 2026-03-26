@@ -55,14 +55,14 @@ Thanks for checking out my github!
 
 ![gathrean's Stats](https://github-readme-stats.vercel.app/api?username=gathrean&theme=react&show_icons=true&hide_border=true&count_private=true) 
 
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
 -->
 
 ![gathrean's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gathrean&theme=react&hide_border=true&timezone=America/Vancouver)
 
-![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathrean&theme=react)
-
 
 <!--
+
 **gathrean/gathrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![discord-avatar-512-RCB3T](https://github.com/gathrean/gathrean/assets/77172769/2c6b5072-a9a8-48fb-bba8-38b7ca313307)
